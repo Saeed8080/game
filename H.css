@@ -1,0 +1,26 @@
+button {
+ border: none;
+ color: #29291;
+ padding: 0.9em 2.9em;
+ font-size: 28px;
+ border-radius: 0.5em;
+ background: #d0d0d0;
+ border: 1px solid #000088;
+ transition: all .2s;
+ box-shadow: 5px 5px 5px #000000,
+             -2px -2px 5px #998100;
+}
+
+button:hover {
+ border: 2px solid black;
+}
+
+button:active {
+ box-shadow: 8px 7px 1px #998100,
+             -8px -7px 1px #000000;
+}
+img{
+border:noun;
+box-shadow: 5px 6px 50px #ff5500;
+}
+    
